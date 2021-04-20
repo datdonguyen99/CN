@@ -1,6 +1,10 @@
-# CN
+# video_streaming
+Assignment 1 for the Computer Network course
 
-up source 20/04/2021
-"" assignment 1 computer net work"
-If server want to communicate with client or back, open client .bat and
-at YOUR COMOUTER ADDRESS, use ipconfig to check and replace it to another computer.
+# How to use script files
+
+# Run server, the assigned port for the server is 25000
+server 
+
+# Run client, the assigned port for the client is 25565, file name is movie.Mjpeg
+client
